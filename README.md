@@ -1,4 +1,4 @@
-# Tech-Blogs
+# BLOGS - Fullstack Development
 #100daysofblogging
 
 - Best way to understand and master a concept is by explaining it to someone else. This is the sole purpose of this repository - to try to explain new concepts that I am learning in simplest language possible. 
